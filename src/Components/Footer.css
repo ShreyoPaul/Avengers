@@ -1,0 +1,36 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    align-self: center;
+}
+.footer  .f{
+    padding: 1.2vw;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.402);
+}
+.replay{
+    color: pink !important;
+}
+.close{
+    color: aqua !important;
+}
+.starrate{
+    color: yellow !important;
+}
+.fav{
+    color: tomato !important;
+}
+.flash{
+    color: purple !important;
+}
+
+@media screen and (width: 400px) {
+    .footer{
+        padding-top: 80rem;
+        /* bottom: 100px; */
+    }
+}

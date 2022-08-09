@@ -1,0 +1,35 @@
+.cardContainer{
+    height: 80vh ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+.card{
+    position: relative;
+    width: 600px;
+    /* min-width: 60vw; */
+    height: 50vh;
+    padding: 20px;
+    border-radius: 20px;
+    background-size: cover;
+    box-shadow: 0 15px 60px 0 rgba(0,0, 0, 0.2);
+    justify-content: center;
+    align-items: center;
+}
+.swipe{
+    position: absolute;
+    top: 8rem;
+}
+h1{
+    font-size: x-large;
+    color: rgb(255, 0, 0);
+    position: absolute;
+    bottom: 20px;
+    margin-left: 5%;
+}
+@media screen and (width: 400px) {
+    .card{
+        width: 300px;
+    }
+}
