@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TinderCopy/static/css/main.b194235f.css",
+    "main.js": "/TinderCopy/static/js/main.83945d98.js",
+    "static/js/787.eb8d15da.chunk.js": "/TinderCopy/static/js/787.eb8d15da.chunk.js",
+    "static/media/logo.svg": "/TinderCopy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TinderCopy/index.html",
+    "main.b194235f.css.map": "/TinderCopy/static/css/main.b194235f.css.map",
+    "main.83945d98.js.map": "/TinderCopy/static/js/main.83945d98.js.map",
+    "787.eb8d15da.chunk.js.map": "/TinderCopy/static/js/787.eb8d15da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b194235f.css",
+    "static/js/main.83945d98.js"
+  ]
+}
